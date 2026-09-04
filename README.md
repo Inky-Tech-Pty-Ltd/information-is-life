@@ -320,6 +320,10 @@ This is not yet a literature review. Important lines of ancestry, evidence, disa
 
 A fuller account belongs in a dedicated sources document.
 
+## Working notes
+
+- [Verbs](verbs.md) — Predicates describe a graph; verbs transform it and introduce time.
+
 ## Status
 
 This is an early working thesis, not a finished theory. The Hugging Face incident is a case study, not proof.
