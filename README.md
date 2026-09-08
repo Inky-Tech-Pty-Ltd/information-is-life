@@ -323,6 +323,7 @@ A fuller account belongs in a dedicated sources document.
 ## Working notes
 
 - [Verbs](verbs.md) — Predicates describe a graph; verbs transform it and introduce time.
+- [Memes, transactions, and the autonomy gap](memes-transactions.md) — Security as ecology; DNA and digital replication; transactional autonomy; nested memes; and a visibly inherited verse.
 
 ## Status
 
