@@ -1,6 +1,6 @@
 # Information is life
 
-> Life is information that makes copies of itself, with errors, and with variable success.
+> Life is a set of competing 'copy' instructions.
 
 Genes are copy instructions encoded in DNA. Memes are copy instructions encoded in any medium.
 
