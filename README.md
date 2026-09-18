@@ -18,6 +18,8 @@ This repository explores the consequences.
 
 Information is life and [Village Link](https://github.com/Inky-Tech-Pty-Ltd/VillageLink) emerged from the same body of work and have now speciated into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
 
+[Their fuller relationship and shared history are described below.](#relationship-to-links-and-village-link)
+
 ## The question
 
 The usual discussion of an intelligent agent asks:
