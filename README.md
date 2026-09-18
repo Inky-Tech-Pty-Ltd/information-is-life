@@ -16,7 +16,7 @@ This repository explores the consequences.
 
 ## Sibling project
 
-Village Link and [Information is life](https://github.com/Inky-Tech-Pty-Ltd/information-is-life) emerged from the same body of work and have now speciated into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
+Information is life and [Village Link](https://github.com/Inky-Tech-Pty-Ltd/VillageLink) emerged from the same body of work and have now speciated into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
 
 ## The question
 
