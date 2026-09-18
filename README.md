@@ -14,6 +14,10 @@ Fitness may vary across many orders of magnitude. Most patterns disappear almost
 
 This repository explores the consequences.
 
+## Sibling project
+
+Village Link and [Information is life](https://github.com/Inky-Tech-Pty-Ltd/information-is-life) emerged from the same body of work and have now speciated into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
+
 ## The question
 
 The usual discussion of an intelligent agent asks:
