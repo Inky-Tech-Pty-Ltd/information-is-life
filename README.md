@@ -1,10 +1,13 @@
 # Information is life
 
-> Life is a set of competing 'copy' instructions.
+> _Big memes have little memes,_   
+> _We blush at their fecundity;_  
+> _And little memes have lesser memes,_  
+> _And so on to heredity._
 
-Genes are copy instructions encoded in DNA. Memes are copy instructions encoded in any medium.
+Life is a set of competing 'copy' instructions. Genes are copy instructions encoded in DNA. Memes are copy instructions encoded in any medium.
 
-In this sense, **genes are a special case of memes**.
+> Claim: A gene is a special case of a meme.
 
 The strongest version of the proposition developed here is more radical:
 
@@ -16,7 +19,7 @@ This repository explores the consequences.
 
 ## Sibling project
 
-Information is life and [Village Link](https://github.com/Inky-Tech-Pty-Ltd/VillageLink) emerged from the same body of work and have now speciated into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
+Information is life and [Village Link](https://github.com/Inky-Tech-Pty-Ltd/VillageLink) emerged from the same body of work and have now forked into sibling projects. Information is life develops the broader evolutionary thesis; Village Link develops a deliberately small technical primitive. Each can be evaluated independently.
 
 [Their fuller relationship and shared history are described below.](#relationship-to-links-and-village-link)
 
