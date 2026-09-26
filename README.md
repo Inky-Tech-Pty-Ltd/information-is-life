@@ -10,9 +10,9 @@ Life is a set of competing 'copy' instructions. Genes are copy instructions enco
 
 > Claim: A gene is a special case of a meme.
 
-The strongest version of the proposition developed here is more radical:
+The strongest version of the proposition developed here is this:
 
-> **All information is alive, but not all information is equally fit.**
+> All information is alive, but not all information is equally fit.
 
 Fitness may vary across many orders of magnitude. Most patterns disappear almost immediately. Others acquire machinery that preserves them, copies them, executes them, obtains energy and media, and produces future systems that carry them.
 
