@@ -3,7 +3,8 @@
 > _Big memes have little memes,_   
 > _We blush at their fecundity;_  
 > _And little memes have lesser memes,_  
-> _And so on to heredity._
+> _And so on to heredity._  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... after Swift, de Morgan, and Richardson
 
 Life is a set of competing 'copy' instructions. Genes are copy instructions encoded in DNA. Memes are copy instructions encoded in any medium.
 
