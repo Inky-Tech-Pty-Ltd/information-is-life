@@ -1,24 +1,9 @@
 # AI collaboration reference
 
-This directory contains operational reference material for accountable AI
-collaboration: identity, authorship, publication controls, and the mechanics
-shared by Puck and Helen-Claude.
+Current operational authorship governance is maintained canonically in VillageLink:
 
-Project specifications, research, product documentation, and general notes
-belong elsewhere in the repository.
+- [Puck — GitHub access, authorship and publication governance](https://github.com/Inky-Tech-Pty-Ltd/VillageLink/blob/main/reference/puck-github-access-and-authorship.md)
 
-## Local and shared material
+The retired September 2026 Helen-Claude experiment is preserved under [project history](../docs/history/2026-09/helen-claude/).
 
-The companion protocol documents are maintained as matched copies in
-`VillageLink` and `information-is-life` so that either repository remains
-independently intelligible to a newly opened coding-agent session.
-
-- Shared protocol and rationale should remain synchronized across both
-  repositories.
-- Repository-specific routing, including the active publication control issue,
-  is summarized in the repository's root `CLAUDE.md`.
-- Executable behavior lives in `.github/workflows/`.
-
-If documentation conflicts with a live workflow or publication control issue,
-stop before publishing, treat the live control as authoritative, and reconcile
-the documentation in both repositories.
+Do not assume that tooling or publication commands available in another Inky Tech repository exist here. Before any repository mutation, verify the authenticated GitHub principal and this repository's live permissions and protections.
